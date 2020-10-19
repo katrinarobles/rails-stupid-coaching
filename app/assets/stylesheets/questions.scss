@@ -1,7 +1,10 @@
-$gray: #F4F4F4;
+$gold: goldenrod;
 
  body {
-   background: $gray; // Using this variable
+   background: $gold; // Using this variable
+   margin: 50px 50px;
+   text-align: center;
+   color: white;
  }
 
   a {
